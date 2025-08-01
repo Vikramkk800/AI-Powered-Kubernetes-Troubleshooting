@@ -1,0 +1,28 @@
+let me explain what i done (im not sure about it)
+
+youtube video links for donw the project 
+
+Cloud With Raj
+https://www.youtube.com/watch?v=en2dYAv-rJk
+https://www.youtube.com/watch?v=onmNpvvlzO8&t=222s
+
+... what i done i think ...
+
+i laucn ece2 instance and installed minikube service got started ...
+
+for mcp ---- i installed core mcp via pypi installation 
+
+i think this one - - - - https://pypi.org/project/awslabs.core-mcp-server/
+
+i installed mcp for kubernetes pipy insrallation 
+
+i think this one - - - - https://pypi.org/project/mcp-kubernetes-server/
+(some other pypy also showing im not sure about it)
+
+-----------------------
+
+1. mcp core server installed 
+2. mcp kubernetes server installed 
+3. remote via ssh vs code 
+4. cline installed 
+5. mcp servers are configures (i saved all the code in folder chekc that)
