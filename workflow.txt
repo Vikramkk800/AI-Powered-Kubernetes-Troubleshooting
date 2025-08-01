@@ -37,4 +37,4 @@ that mcp.json file was configured in cline . the pipi was installed on the insta
 cline insalled how ---- beacuse i connected the instance vie vs code after that i installed cline so it will be there in the ec2 instance 
 
 
-note: in my puhed files .... i dont configured manally the cline, mcp, mcp kubernters 
+note: in my puhed files .... i dont configured manally the cline, mcp, mcp kubernters ..... in vs code also mcp core server extention is there i installed but dont know is that working or not 
