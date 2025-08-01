@@ -26,3 +26,6 @@ i think this one - - - - https://pypi.org/project/mcp-kubernetes-server/
 3. remote via ssh vs code 
 4. cline installed 
 5. mcp servers are configures (i saved all the code in folder chekc that)
+(that one having core mcp, kubernetes , aws pricing, aws docs)
+
+6. in clline openrouter model with api key and the model name is qwen/qwen3-coder:free
