@@ -29,3 +29,12 @@ i think this one - - - - https://pypi.org/project/mcp-kubernetes-server/
 (that one having core mcp, kubernetes , aws pricing, aws docs)
 
 6. in clline openrouter model with api key and the model name is qwen/qwen3-coder:free
+
+
+that mcp.json file was configured in cline . the pipi was installed on the instance so i thinks all are connected 
+
+
+cline insalled how ---- beacuse i connected the instance vie vs code after that i installed cline so it will be there in the ec2 instance 
+
+
+note: in my puhed files .... i dont configured manally the cline, mcp, mcp kubernters 
