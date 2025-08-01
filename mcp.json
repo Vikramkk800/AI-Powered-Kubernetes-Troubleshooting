@@ -1,0 +1,37 @@
+{
+  "mcpServers": {
+    "core": {
+      "command": "uvx",
+      "args": ["--from", "awslabs-core-mcp-server", "awslabs.core-mcp-server"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false
+    },
+    "aws-pricing": {
+      "command": "uvx",
+      "args": ["--from", "awslabs-aws-pricing-mcp-server", "awslabs.aws-pricing-mcp-server"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR",
+        "AWS_PROFILE": "default"
+      },
+      "disabled": false
+    },
+    "aws-docs": {
+      "command": "uvx",
+      "args": ["--from", "awslabs-aws-documentation-mcp-server", "awslabs.aws-documentation-mcp-server"],
+      "env": {
+        "FASTMCP_LOG_LEVEL": "ERROR"
+      },
+      "disabled": false
+    },
+    "kubernetes": {
+      "command": "uvx",
+      "args": ["mcp-kubernetes-server"],
+      "env": {
+        "KUBECONFIG": "/home/ubuntu/.kube/config"
+      },
+      "disabled": false
+    }
+  }
+}
